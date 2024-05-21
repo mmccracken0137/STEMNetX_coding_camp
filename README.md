@@ -7,8 +7,8 @@ All of the Jupyter notebooks and datafiles that we'll be using for the camp can 
 The schedule for the in-person camp is:
  - Day 1, 9:00-12:00: Welcome, installing `python`, background, basic syntax, control structures
  - Day 2, 9:00-12:00: Types, lists, dictionaries, file I/O, data visualization
- - Day 3, 9:00-12:00: Monte Carlo techniques, fitting, text manipulation
- - Day 4, 9:00-12:00: Data reduction with Pandas, project assignments
+ - Day 3, 9:00-12:00: Monte Carlo techniques, fitting
+ - Day 4, 9:00-12:00: Text manipulation, data reduction with `Pandas`, project assignments
  - Day 5, 12:00-3:00: projects/presentations/party
  
 There will typically be two notebook files for each of days 1-4.
